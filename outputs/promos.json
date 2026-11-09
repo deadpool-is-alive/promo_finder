@@ -1,0 +1,437 @@
+{
+  "show": "I Married a Broken Soldier. He was a Duke",
+  "meta": {
+    "mode": "llm+rules",
+    "fast_model": "gemini-2.5-flash",
+    "strong_model": "gemini-2.5-flash",
+    "provider": "openai",
+    "seconds": 29.0,
+    "episodes_run": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "usage": {
+      "calls": 0,
+      "cache_hits": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "failures": 0
+    },
+    "tokens_by_stage": {}
+  },
+  "promos": [
+    {
+      "rank": 1,
+      "promo_id": "H4.1",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 41.4,
+      "segments": [
+        {
+          "episode": 4,
+          "start": "01:50.00",
+          "end": "02:31.40",
+          "start_s": 110.0,
+          "end_s": 151.4
+        }
+      ],
+      "hook": "THE PRIEST: \"By the authority entrusted to me, I now pronounce you...\"",
+      "cliffhanger": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 73.2,
+        "hook": 8.5,
+        "cliffhanger": 7.0,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 4, 41s) ---\n[00:00.00-00:03.00] THE PRIEST (Ceremonial): \"By the authority entrusted to me, I now pronounce you...\"\n[00:03.00-00:04.80] THE PRIEST (Off-Screen, Booming): \"...husband and wife!\"\n[00:04.00-00:05.20] SFX: Dramatic musical chord swelling.\n[00:05.00-00:06.80] GERALD (Furious, Shouting): \"You have thrown yourself away!\"\n[00:07.00-00:09.00] GERALD (Livid): \"For a penniless nobody!\"\n[00:10.50-00:12.80] JULIANA (Calm, Cutting): \"I would rather choose my own life...\"\n[00:13.00-00:15.50] JULIANA (Firm, Final): \"...than spend another moment begging for yours.\"\n[00:16.00-00:17.40] ACTION: Gerald recoils slightly, mouth agape.\n[00:17.50-00:21.50] LADY ASHCROFT (Imperious, Shouting): \"Do not bring this man anywhere near Ashcroft Manor!\"\n[00:22.00-00:24.50] LADY ASHCROFT (Venomous): \"You are disowned!\"\n[00:29.50-00:30.80] MYSTERIOUS BEARDED MAN (Soft, Protective): \"Come, Lady Juliana.\"\n[00:35.00-00:36.50] ACTION: Clarissa gapes in shock while Lady Ashcroft exhales in exasperation.\n[00:37.00-00:39.00] SFX: Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.\n[00:37.50-00:41.40] ACTION: Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out."
+    },
+    {
+      "rank": 2,
+      "promo_id": "H1.1",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 47.1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": "01:12.40",
+          "end": "01:59.50",
+          "start_s": 72.4,
+          "end_s": 119.5
+        }
+      ],
+      "hook": "LADY JULIANA: \"How long?\"",
+      "cliffhanger": "LADY JULIANA: \"So that is what I was worth to you?\"",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 65.0,
+        "hook": 7.0,
+        "cliffhanger": 6.0,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 1, 47s) ---\n[00:00.70-00:01.90] LADY JULIANA (Trembling): \"How long?\"\n[00:02.60-00:06.10] LADY IN GOLD GOWN (Cruel, Poised): \"Long enough to know he was never going to marry you.\"\n[00:06.60-00:08.60] ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.\n[00:07.70-00:08.80] LADY JULIANA (Desperate): \"Father...\"\n[00:09.00-00:11.20] LADY JULIANA (Begging): \"Tell them this is a mistake.\"\n[00:13.60-00:16.50] LADY JULIANA (Choking, Broken): \"Father... please look at me.\"\n[00:17.10-00:18.40] ACTION: The father tightens his jaw and stony expression, refusing to offer a single word or look.\n[00:18.50-00:19.50] MATRIARCH (Stern, Resolute): \"Enough!\"\n[00:19.70-00:23.10] MATRIARCH (Disgusted): \"You have embarrassed this family long enough.\"\n[00:23.80-00:25.80] LADY JULIANA (Incredulous): \"Embarrassed you?\"\n[00:26.40-00:29.10] MATRIARCH (Haughty): \"Clarissa knows how to carry herself.\"\n[00:29.20-00:32.60] MATRIARCH (Proud): \"She has beauty, connections, and a future worth protecting.\"\n[00:33.00-00:34.90] LADY JULIANA (Raw, Painful): \"And I am what?\"\n[00:35.10-00:38.40] LADY IN GOLD GOWN (Viciously Calm): \"You are the daughter people tolerate because they have to.\"\n[00:38.70-00:40.60] LADY IN GOLD GOWN (Gloating): \"I am the daughter they choose.\"\n[00:40.90-00:43.30] MATRIARCH (O.S.) (Firm): \"Clarissa is the jewel of this family.\"\n[00:44.60-00:46.60] LADY JULIANA (Trembling, Dignified): \"So that is what I was worth to you?\""
+    },
+    {
+      "rank": 3,
+      "promo_id": "H5.1",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 58.7,
+      "segments": [
+        {
+          "episode": 5,
+          "start": "00:51.80",
+          "end": "01:50.50",
+          "start_s": 51.8,
+          "end_s": 110.5
+        }
+      ],
+      "hook": "LADY ASHCROFT: \"Then you should have guarded it better.\"",
+      "cliffhanger": "MYSTERIOUS BEARDED MAN: \"Come.\"",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 64.5,
+        "hook": 6.0,
+        "cliffhanger": 7.0,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 5, 59s) ---\n[00:00.20-00:02.20] LADY ASHCROFT (Cruel): \"Then you should have guarded it better.\"\n[00:02.70-00:05.70] ACTION: Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.\n[00:03.70-00:05.00] JULIANA (Screaming, Desperate): \"Barbara, don't!\"\n[00:05.20-00:06.40] SFX: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.\n[00:07.20-00:10.70] CLARISSA (Gleeful, Mocking): \"Even your mother's precious legacy has been cast into the dirt!\"\n[00:10.60-00:12.80] GERALD (Smug, Cruel): \"Perhaps that is where it belongs.\"\n[00:13.70-00:16.70] ACTION: Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.\n[00:18.70-00:22.70] ACTION: The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.\n[00:26.00-00:27.20] MYSTERIOUS BEARDED MAN (Low, Gentle): \"Here you go.\"\n[00:28.70-00:30.20] JULIANA (Choked, Weeping): \"They destroyed it.\"\n[00:30.70-00:33.60] MYSTERIOUS BEARDED MAN (Calm, Grounded): \"They dirtied it. That is not the same thing.\"\n[00:34.70-00:36.00] JULIANA (Broken): \"It was my mother's.\"\n[00:36.10-00:37.20] MYSTERIOUS BEARDED MAN (Gentle, Protective): \"Then keep it.\"\n[00:36.70-00:39.20] ACTION: The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.\n[00:37.60-00:39.20] MYSTERIOUS BEARDED MAN (Firm, Comforting): \"Let them keep everything else.\"\n[00:39.70-00:41.00] GERALD (Mocking, Arrogant): \"Look at you.\"\n[00:41.20-00:44.70] GERALD (Scornful, Spiteful): \"A noblewoman reduced to a beggar's wife!\"\n[00:46.20-00:49.00] MYSTERIOUS BEARDED MAN (Low, Lethally Cold): \"Choose your next words carefully.\"\n[00:52.40-00:53.40] MYSTERIOUS BEARDED MAN (Soft, Reassuring): \"Come.\"\n[00:54.20-00:58.70] SFX: Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black."
+    },
+    {
+      "rank": 4,
+      "promo_id": "H2.1",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 37.2,
+      "segments": [
+        {
+          "episode": 2,
+          "start": "00:00.00",
+          "end": "00:37.20",
+          "start_s": 0.0,
+          "end_s": 37.2
+        }
+      ],
+      "hook": "THE FORMER GROOM: \"I cannot marry you, Juliana.\"",
+      "cliffhanger": "LADY JULIANA: \"Surely you will not let him humiliate me like this?\"",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 63.0,
+        "hook": 6.0,
+        "cliffhanger": 6.5,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 2, 37s) ---\n[00:00.00-00:02.50] THE FORMER GROOM (Cold, Callous): \"I cannot marry you, Juliana.\"\n[00:02.80-00:04.60] ACTION: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.\n[00:04.70-00:06.50] THE FORMER GROOM (Cruel, Derisive): \"You are far too plain...\"\n[00:06.80-00:09.50] THE FORMER GROOM (Off-screen) (Dismissive): \"...far too silent...\"\n[00:09.60-00:12.00] THE FORMER GROOM (Arrogant, Conceited): \"...and completely beneath the future I deserve.\"\n[00:12.40-00:15.50] LADY JULIANA (Desperate, Pleading): \"Gerald... Look at me.\"\n[00:18.20-00:20.60] LADY JULIANA (Trembling, Betrayed): \"You gave me your word before both our families.\"\n[00:20.90-00:23.70] THE FORMER GROOM (Indifferent, Unapologetic): \"Promises change when a better choice appears.\"\n[00:24.00-00:27.40] LADY JULIANA (Shattered, Disbelieving): \"A better choice? Is that what she is?\"\n[00:27.80-00:30.50] THE FORMER GROOM (Resolute, Harsh): \"She is what I should have chosen from the beginning.\"\n[00:30.90-00:32.40] LADY JULIANA (Off-screen) (Vulnerable, Begging): \"Father...\"\n[00:34.30-00:37.10] LADY JULIANA (Choked with Tears): \"Surely you will not let him humiliate me like this?\""
+    },
+    {
+      "rank": 5,
+      "promo_id": "H3.1",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 53.3,
+      "segments": [
+        {
+          "episode": 3,
+          "start": "01:24.00",
+          "end": "02:17.30",
+          "start_s": 84.0,
+          "end_s": 137.3
+        }
+      ],
+      "hook": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.",
+      "cliffhanger": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana.",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 61.8,
+        "hook": 6.5,
+        "cliffhanger": 5.5,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 3, 53s) ---\n[00:00.00-00:01.50] ACTION: The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.\n[00:00.50-00:01.40] SFX: A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.\n[00:01.60-00:04.00] THE FORMER GROOM (Frantic, Shouting): \"What are you waiting for?! He's only one man!\"\n[00:06.40-00:07.60] THE BEARDED STRANGER (Gentle, Protective): \"Are you hurt?\"\n[00:07.80-00:09.60] ACTION: Juliana softly shakes her head 'no', her wide blue eyes locked onto him.\n[00:10.10-00:12.30] THE BEARDED STRANGER (Firm, Menacing): \"Good. Then don't touch her again.\"\n[00:12.50-00:14.50] NOBLE MATRIARCH (Furious, Hysterical): \"You cannot interfere in a family matter!\"\n[00:14.80-00:16.80] THE BEARDED STRANGER (O.S.) (Deep, Resonant): \"I can...\"\n[00:16.80-00:19.80] THE BEARDED STRANGER (O.S.) (Stern, Accusing): \"...when your family is dragging a defenseless woman from a church.\"\n[00:20.20-00:23.40] THE BEARDED STRANGER (Solemn, Gentle): \"You shouldn't have to beg anybody...\"\n[00:23.40-00:25.00] THE BEARDED STRANGER (O.S.) (Affirming, Sincere): \"...to remember your worth.\"\n[00:26.90-00:28.50] LADY JULIANA (Whispering, Bewildered): \"Why are you doing this?\"\n[00:28.80-00:30.10] THE BEARDED STRANGER (Simple, Certain): \"Because I want to.\"\n[00:35.80-00:38.10] THE BEARDED STRANGER (O.S.) (Honorable, Earnest): \"You came here to become a wife.\"\n[00:38.50-00:40.20] THE BEARDED STRANGER (Quiet, Resolute): \"They took that from you.\"\n[00:41.30-00:43.30] THE BEARDED STRANGER (Earnest, Sincere): \"I am offering it back.\"\n[00:43.70-00:45.90] LADY JULIANA (Soft, Hesitant): \"You don't even know me.\"\n[00:46.40-00:48.00] THE BEARDED STRANGER (Quiet, Steady): \"I know enough.\"\n[00:49.20-00:51.50] ACTION: The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana.\n[00:50.80-00:52.20] SFX: A collective, stunned gasp rippling across the entire congregation."
+    },
+    {
+      "rank": 6,
+      "promo_id": "H2.2",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 35.8,
+      "segments": [
+        {
+          "episode": 2,
+          "start": "01:14.20",
+          "end": "01:50.00",
+          "start_s": 74.2,
+          "end_s": 110.0
+        }
+      ],
+      "hook": "LADY JULIANA: \"Dignity?\"",
+      "cliffhanger": "Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 59.5,
+        "hook": 5.0,
+        "cliffhanger": 6.5,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 2, 36s) ---\n[00:00.20-00:02.20] LADY JULIANA (Bitter, Defiant): \"Dignity?\"\n[00:02.30-00:04.80] LADY JULIANA (Clear, Accusing): \"You abandoned a woman who trusted you...\"\n[00:05.00-00:08.30] LADY JULIANA (Off-screen) (Sharp, Piercing): \"...because another woman promised you greater beauty and wealth.\"\n[00:08.80-00:12.30] LADY JULIANA (Steely, Resolute): \"Do not mistake my heartbreak for your victory, Gerald.\"\n[00:12.60-00:18.80] LADY JULIANA (Powerful, Unyielding): \"You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable.\"\n[00:19.20-00:22.40] LADY JULIANA (Decisive, Scathing): \"You have shown them exactly what your word is worth.\"\n[00:24.00-00:28.60] ACTION: Juliana lifts her chin high, commanding the space with unassailable dignity.\n[00:24.30-00:28.20] LADY JULIANA (Resolute, Proud): \"I may leave this chapel without a husband...\"\n[00:28.80-00:33.20] LADY JULIANA (Defiant, Triumphant in Spirit): \"...but I will not leave it believing I was the one who should be ashamed.\"\n[00:33.20-00:35.80] ACTION: Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat."
+    },
+    {
+      "rank": 7,
+      "promo_id": "H3.2",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 35.7,
+      "segments": [
+        {
+          "episode": 3,
+          "start": "00:30.30",
+          "end": "01:06.00",
+          "start_s": 30.3,
+          "end_s": 66.0
+        }
+      ],
+      "hook": "LADY JULIANA: \"I was humiliated by your family.\"",
+      "cliffhanger": "The guards tear her grip away from the pew.",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 56.5,
+        "hook": 5.0,
+        "cliffhanger": 5.5,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 3, 36s) ---\n[00:00.10-00:02.90] LADY JULIANA (Pained, Betrayed): \"I was humiliated by your family.\"\n[00:03.00-00:05.30] LADY JULIANA (Accusing): \"And my father said nothing.\"\n[00:06.20-00:08.10] NOBLE MATRIARCH (Brutal, Dismissive): \"Your father has made his choice.\"\n[00:08.20-00:10.10] LADY JULIANA (Choked, Vulnerable): \"And what happens to me?\"\n[00:10.20-00:11.60] NOBLE MATRIARCH (Cold, Heartless): \"You leave.\"\n[00:11.80-00:13.00] LADY JULIANA (Disbelieving): \"Leave where?\"\n[00:13.10-00:15.70] NOBLE MATRIARCH (Cruel, Scornful): \"Wherever a discarded daughter belongs.\"\n[00:16.10-00:18.30] LADY JULIANA (Fierce, Choked): \"This is my mother's church.\"\n[00:18.60-00:20.80] LADY JULIANA (Defiant, Firm): \"I have every right to stand here.\"\n[00:21.00-00:22.70] NOBLE MATRIARCH (Venomous): \"Not anymore.\"\n[00:23.00-00:25.90] NOBLE MATRIARCH (Stern, Final): \"Your father has chosen his family...\"\n[00:26.00-00:27.90] NOBLE MATRIARCH (Coldly Severing): \"...and it isn't you.\"\n[00:27.90-00:29.50] ACTION: The Noble Matriarch turns sharply toward the back of the chapel and barks an order.\n[00:28.00-00:29.70] NOBLE MATRIARCH (Shouting, Imperious): \"Guards! Remove her!\"\n[00:30.20-00:32.20] ACTION: The guards forcefully grab Juliana by both shoulders and drag her backwards.\n[00:30.30-00:32.00] LADY JULIANA (Screaming, Resisting): \"Let me go!\"\n[00:32.10-00:33.20] LADY JULIANA (Desperate, Begging): \"Please! Someone!\"\n[00:32.70-00:34.20] ACTION: The guards tear her grip away from the pew.\n[00:32.70-00:34.20] SFX: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+    },
+    {
+      "rank": 8,
+      "promo_id": "H4.2",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 54.0,
+      "segments": [
+        {
+          "episode": 4,
+          "start": "00:32.00",
+          "end": "01:26.00",
+          "start_s": 32.0,
+          "end_s": 86.0
+        }
+      ],
+      "hook": "JULIANA: \"And what do you see?\"",
+      "cliffhanger": "THE PRIEST: \"Are you certain?\"",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 55.0,
+        "hook": 5.0,
+        "cliffhanger": 5.0,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 4, 54s) ---\n[00:00.10-00:01.70] JULIANA (Quiet, Hesitant): \"And what do you see?\"\n[00:02.00-00:04.00] MYSTERIOUS BEARDED MAN (Firm, Sincere): \"A woman who was betrayed.\"\n[00:04.50-00:06.80] MYSTERIOUS BEARDED MAN (Resolute): \"Not a woman who deserves to be discarded.\"\n[00:10.00-00:12.80] JULIANA (Soft, Bitter): \"You don't know what my family has done to me.\"\n[00:14.00-00:16.80] MYSTERIOUS BEARDED MAN (Solemn): \"I know they have made you stand alone.\"\n[00:18.00-00:20.50] MYSTERIOUS BEARDED MAN (Gentle): \"You don't have to stand alone now.\"\n[00:21.60-00:23.80] JULIANA (Defiant, Dignified): \"If this is pity, take back your ring.\"\n[00:24.80-00:26.80] JULIANA (Fierce): \"I will not become anyone's charity.\"\n[00:27.50-00:30.50] MYSTERIOUS BEARDED MAN (Earnest): \"It is not pity, Lady Juliana.\"\n[00:31.50-00:33.50] MYSTERIOUS BEARDED MAN (Deep, Absolute): \"It is a vow.\"\n[00:34.00-00:36.00] JULIANA (V.O.): \"I don't know this man.\"\n[00:36.00-00:37.60] JULIANA (V.O.): \"I don't know what waits beyond these doors.\"\n[00:37.80-00:40.00] JULIANA (V.O.): \"But he looked at me when everyone else turned away.\"\n[00:40.80-00:42.50] JULIANA (Resolved): \"Then I accept.\"\n[00:44.20-00:47.00] ACTION: The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.\n[00:47.20-00:49.50] ACTION: He folds his fingers over hers, holding her hand with protective firmness.\n[00:50.00-00:51.80] THE PRIEST (Hesitant, Anxious): \"My- My Lady...\"\n[00:52.00-00:53.80] THE PRIEST (Tentative): \"Are you certain?\""
+    },
+    {
+      "rank": 9,
+      "promo_id": "H5.2",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 33.0,
+      "segments": [
+        {
+          "episode": 5,
+          "start": "00:15.80",
+          "end": "00:48.80",
+          "start_s": 15.8,
+          "end_s": 48.8
+        }
+      ],
+      "hook": "LORD ASHCROFT: \"Then leave as his wife.\"",
+      "cliffhanger": "LADY ASHCROFT: \"...that belongs to this family.\"",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 55.0,
+        "hook": 5.0,
+        "cliffhanger": 5.0,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 5, 33s) ---\n[00:00.20-00:02.20] LORD ASHCROFT (Harsh, Final): \"Then leave as his wife.\"\n[00:02.70-00:05.00] LORD ASHCROFT (Harsh, Final): \"You leave as no daughter of mine.\"\n[00:05.20-00:07.20] LORD ASHCROFT (O.S. / Continues): \"Your dowry is revoked.\"\n[00:07.30-00:09.30] LORD ASHCROFT (O.S. / Continues): \"Your inheritance is revoked.\"\n[00:09.60-00:13.10] LORD ASHCROFT (O.S. / Continues): \"From this moment, you are dead to the Ashcroft family.\"\n[00:13.70-00:17.60] JULIANA (Shaking, Tearful): \"You truly mean it? You are my father!\"\n[00:18.00-00:21.00] LORD ASHCROFT (O.S.): \"And you have chosen to become a stranger.\"\n[00:21.80-00:25.70] JULIANA (Quietly Resolute): \"No, Father. You chose that long before today.\"\n[00:26.70-00:28.40] LADY ASHCROFT (Sharply Dismissive): \"Enough sentiment.\"\n[00:28.50-00:30.00] LADY ASHCROFT (Cold, Demanding): \"And the ledger...\"\n[00:31.00-00:33.00] LADY ASHCROFT (Venomous): \"...that belongs to this family.\""
+    },
+    {
+      "rank": 10,
+      "promo_id": "H1.2",
+      "type": "single",
+      "source": "heuristic",
+      "duration_s": 58.1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": "00:14.30",
+          "end": "01:12.40",
+          "start_s": 14.3,
+          "end_s": 72.4
+        }
+      ],
+      "hook": "LADY JULIANA: \"Gerald is waiting for me.\"",
+      "cliffhanger": "LADY IN GOLD GOWN: \"Of course I knew.\"",
+      "why_it_works": "Rule-based pick: strong opener keywords + unresolved/emphatic ending.",
+      "why_ranked_here": "Rule-based score only (no judge); lower confidence.",
+      "scores": {
+        "final_0_100": 54.5,
+        "hook": 4.0,
+        "cliffhanger": 6.0,
+        "standalone": null,
+        "spoiler_risk": null,
+        "judged": false
+      },
+      "verdict": "unjudged",
+      "newcomer_confusion": "",
+      "flags": [
+        "unjudged"
+      ],
+      "qa_checks": {
+        "duration_20_60": true,
+        "within_episode": true,
+        "clean_cuts_no_mid_dialogue": true,
+        "opens_with_content_in_3s": true,
+        "hook_quote_found_in_clip": null
+      },
+      "clip_text": "--- Segment 1 (from Episode 1, 58s) ---\n[00:01.20-00:03.20] LADY JULIANA (Desperate, Unbelieving): \"Gerald is waiting for me.\"\n[00:03.70-00:05.10] MATRIARCH (Blunt, Unforgiving): \"Not anymore.\"\n[00:07.50-00:09.20] LADY JULIANA (Trembling, Pleading): \"What do you mean?\"\n[00:09.50-00:11.20] MATRIARCH (Dismissive): \"Look for yourself.\"\n[00:11.30-00:15.50] ACTION: Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock.\n[00:19.50-00:20.70] LADY JULIANA (Shaken, Whispering): \"Gerald?\"\n[00:21.10-00:23.40] LADY JULIANA (Heartbroken): \"Why are you holding her hand?\"\n[00:24.80-00:26.90] LADY IN GOLD GOWN (Gloating, Smug): \"Because he is marrying me.\"\n[00:27.40-00:28.80] LADY JULIANA (Gasping, Devastated): \"No...\"\n[00:32.50-00:35.70] LADY JULIANA (Outraged, Accusing): \"You knew this before I walked through those doors!\"\n[00:38.50-00:40.30] LADY JULIANA (Choking on Tears): \"You let me come here...\"\n[00:40.40-00:42.60] LADY JULIANA (Crushed, Shaking): \"You let me dress in my mother's gown...\"\n[00:42.70-00:45.70] LADY JULIANA (Crying Out): \"You let me believe I was walking toward my husband!\"\n[00:45.80-00:47.50] THE FORMER GROOM (Cold, Callous): \"I changed my mind.\"\n[00:49.10-00:51.30] LADY JULIANA (Betrayed, Piercing): \"You swore you loved me!\"\n[00:52.20-00:54.50] LADY IN GOLD GOWN (Mocking): \"People change their minds, sister.\"\n[00:54.80-00:56.10] LADY JULIANA (Horrified): \"And you knew?\"\n[00:56.30-00:57.80] LADY IN GOLD GOWN (Unapologetic, Cheerful): \"Of course I knew.\""
+    }
+  ]
+}

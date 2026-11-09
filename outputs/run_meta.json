@@ -1,0 +1,22 @@
+{
+  "mode": "llm+rules",
+  "fast_model": "gemini-2.5-flash",
+  "strong_model": "gemini-2.5-flash",
+  "provider": "openai",
+  "seconds": 29.0,
+  "episodes_run": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "usage": {
+    "calls": 0,
+    "cache_hits": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "failures": 0
+  },
+  "tokens_by_stage": {}
+}
